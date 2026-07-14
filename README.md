@@ -1,5 +1,7 @@
 # Purchase Transaction API
 
+STEWART NUNES - TESTE
+
 Spring Boot microservice to:
 
 - store purchase transactions in USD;
