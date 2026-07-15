@@ -50,4 +50,7 @@ public class CreatePurchaseRequest {
     public void setAmount(BigDecimal amount) {
         this.amount = amount;
     }
+
+	//Sou um comentário
+	//Sou outro comentário.
 }
