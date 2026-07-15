@@ -52,4 +52,5 @@ public class CreatePurchaseRequest {
     }
 
 	//Sou um comentário
+	//Sou outro comentário.
 }
