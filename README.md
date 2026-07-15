@@ -1,7 +1,6 @@
 # Purchase Transaction API
 
-STEWART NUNES - TESTE //Outro Comentário
-Alterando atravez do alteracao-readme nova branch
+COMMIT para v1
 
 Spring Boot microservice to:
 
